@@ -1,6 +1,6 @@
 # Compy
 
-A console-based Lua-programmable computer for children based on
+A console-based Lua-programmable computer for children based on the
 [LÖVE2D][löve2d] framework.
 
 ## Principles
@@ -20,6 +20,7 @@ Development is going on in [this][dev] repo, you can find builds
 [there][releases] for now, until an official release is completed from
 [mainline][main].
 
+[löve2d]: https://love2d.org
 [dev]: https://github.com/aldum/compy-dev
 [releases]: https://github.com/aldum/compy-dev/releases
 [main]: https://github.com/nagydani/loveputer
